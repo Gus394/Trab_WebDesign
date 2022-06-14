@@ -11,7 +11,9 @@
 
  
  body {
-    color: #526066;
+    background-image: url(fire-102.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
   }
   
   h2,
@@ -42,6 +44,7 @@
    */
   .pure-menu {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    background-color: white;
   }
   
   .pure-menu-link {
